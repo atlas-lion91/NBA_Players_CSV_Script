@@ -3,7 +3,7 @@ import requests
 import csv
 
 # Set up headers for the request
-headers = {'X-RapidAPI-Key': '5437d0ec58msh0eb67fa8df98213p1bf404jsnca1c2ab2e785',
+headers = {'X-RapidAPI-Key': '',
 'X-RapidAPI-Host': 'free-nba.p.rapidapi.com'}
 
 # Step 1: Retrieve JSON data using the requests module with headers
